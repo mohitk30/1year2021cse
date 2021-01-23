@@ -1,0 +1,6 @@
+Enter two number :
+number 1 is:4,number 2 is :5
+after swap
+number 1 is 5,number 2 is 4
+again in main
+number 1 is :5,number 2 is :4

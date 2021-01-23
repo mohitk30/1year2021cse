@@ -1,0 +1,4 @@
+Enter number:
+Binary    :1010
+octal     :12
+hexadecimal:A
